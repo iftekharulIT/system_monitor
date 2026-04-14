@@ -21,15 +21,15 @@ A lightweight Python-based system monitoring tool that tracks CPU, memory, and d
 
 ## Project Structure
 system_monitor/
-├── monitor.py        # Main monitoring loop  
-├── logger.py         # Handles structured logging  
-├── alerts.py         # Threshold-based alert logic  
-├── config.py         # Configuration for thresholds  
-├── requirements.txt  
-├── README.md  
-└── logs/  
-    ├── system_log.csv  
-    └── system_logs.png  
+├── monitor.py # Main monitoring loop
+├── logger.py # Structured logging logic
+├── alerts.py # Threshold-based alert handling
+├── config.py # Configuration for thresholds
+├── requirements.txt
+├── README.md
+└── logs/
+├── system_log.csv
+└── system_log.png
 
 ---
 
