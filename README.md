@@ -21,6 +21,7 @@ A lightweight Python-based system monitoring tool that tracks CPU, memory, and d
 
 ## Project Structure
 
+<pre>
 system_monitor/
 ├── monitor.py        # Main monitoring loop
 ├── logger.py         # Structured logging logic
@@ -31,8 +32,8 @@ system_monitor/
 └── logs/
     ├── system_log.csv
     └── system_log.png
+</pre>
 
----
 
 ## Installation
 cd system_monitor  
