@@ -21,7 +21,6 @@ A lightweight Python-based system monitoring tool that tracks CPU, memory, and d
 
 ## Project Structure
 
-```text
 system_monitor/
 ├── monitor.py        # Main monitoring loop
 ├── logger.py         # Structured logging logic
